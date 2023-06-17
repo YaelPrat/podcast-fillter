@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>KZradio הקצה</title>
+    <atom:link href="https://feed.podbean.com/kzradio/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://kzradio.net</link>
+    <description>An independent radio station from Tel Aviv. For music lovers by music lovers.</description>
+    <pubDate>Thu, 15 Jun 2023 08:01:09 +0200</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+    <spotify:countryOfOrigin>il</spotify:countryOfOrigin>
+    <copyright>Copyright 2019. KZRADIO All rights reserved.</copyright>
+    <category>Music</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle/>
+    <itunes:summary>Israel's leading alternative radio station by music lovers for music lovers, broadcasting live daily. &#xD;
+Check out our schedule at https://www.kzradio.net/schedule</itunes:summary>
+    <itunes:author>KZradio</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:owner>
+      <itunes:name>KZradio</itunes:name>
+    </itunes:owner>
+    <itunes:block>No</itunes:block>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/792389/KZ-Square-rw_1_.png"/>
+    <image>
+      <url>https://deow9bq0xqvbj.cloudfront.net/image-logo/792389/KZ-Square-rw_1_.png</url>
+      <title>KZradio הקצה</title>
+      <link>http://kzradio.net</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Eclectic w. Reuven Bardach: ChatGPT-OpenAI // 15-6-23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: ChatGPT-OpenAI // 15-6-23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-chatgpt-openai-15-6-23/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-chatgpt-openai-15-6-23/#comments</comments>
+      <pubDate>Thu, 15 Jun 2023 08:01:09 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/2e704af6-6749-3948-ba32-88df80fbf7b8</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/6pxspr/_15623-ChatGPT-OpenAI8eqlr.mp3" length="86177353" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:50</itunes:duration>
+      <itunes:episode>12797</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 09.06.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 09.06.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-090623/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-090623/#comments</comments>
+      <pubDate>Fri, 09 Jun 2023 15:43:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/fa031d0e-9fe2-3870-9459-773ef17570f4</guid>
+      <description>&lt;p&gt;Garota de Ipanema&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;Garota de Ipanema&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/jmqmkq/Kfar_09_06_23_mixdown.mp3" length="87023469" type="audio/mpeg"/>
+      <itunes:subtitle>Garota de Ipanema</itunes:subtitle>
+      <itunes:summary>Garota de Ipanema</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:25</itunes:duration>
+      <itunes:episode>12757</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach: Songs of Character //8.6.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: Songs of Character //8.6.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-songs-of-character-8623/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-songs-of-character-8623/#comments</comments>
+      <pubDate>Thu, 08 Jun 2023 09:40:36 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/b416d0e0-0d16-3743-a543-13e76fc2963e</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/4x387u/_8623-Songs_of_Character8qeza.mp3" length="86317787" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:56</itunes:duration>
+      <itunes:episode>12747</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 02.06.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 02.06.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-020623/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-020623/#comments</comments>
+      <pubDate>Fri, 02 Jun 2023 15:47:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/afe6a81b-fd41-3fd3-9ba5-be9b74c3cc46</guid>
+      <description>&lt;p&gt;Coinleach Ghlas An Fhómhair&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;Coinleach Ghlas An Fhómhair&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/5q8t3z/Kfar_02_06_23_mixdown.mp3" length="84964836" type="audio/mpeg"/>
+      <itunes:subtitle>Coinleach Ghlas An Fhómhair</itunes:subtitle>
+      <itunes:summary>Coinleach Ghlas An Fhómhair</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>58:59</itunes:duration>
+      <itunes:episode>12708</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach //1.6.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach //1.6.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-1623/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-1623/#comments</comments>
+      <pubDate>Thu, 01 Jun 2023 08:50:14 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/04e61b32-364f-3378-93be-1fb619073969</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/pg77r8/_16237k616.mp3" length="86209954" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:52</itunes:duration>
+      <itunes:episode>12702</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 26.05.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 26.05.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-260523/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-260523/#comments</comments>
+      <pubDate>Fri, 26 May 2023 16:37:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/49e98067-5929-3f11-9cfa-51aa0bb4aaf2</guid>
+      <description>&lt;p&gt;You No Fit Touch Am&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;You No Fit Touch Am&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/tvswsv/Kfar_26_05_23_mixdown.mp3" length="86412575" type="audio/mpeg"/>
+      <itunes:subtitle>You No Fit Touch Am</itunes:subtitle>
+      <itunes:summary>You No Fit Touch Am</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:episode>12664</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach: Stevie Nicks’s Birthday //25.5.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: Stevie Nicks’s Birthday //25.5.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-stevie-nicks-s-birthday-25523/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-stevie-nicks-s-birthday-25523/#comments</comments>
+      <pubDate>Thu, 25 May 2023 08:09:32 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/03940b51-2f25-31d6-9ff2-8c76fed2f1ed</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/bnc9uj/_25523-_6xjnf.mp3" length="86073908" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:46</itunes:duration>
+      <itunes:episode>12658</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali w.Apo Sahagian, 19.05.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali w.Apo Sahagian, 19.05.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-wapo-sahagian-190523/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-wapo-sahagian-190523/#comments</comments>
+      <pubDate>Fri, 19 May 2023 15:57:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/d236780e-ab6b-39c9-9486-d6b24da65a21</guid>
+      <description>&lt;p&gt;Apo Sahagian Live in the Studio &lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;Apo Sahagian Live in the Studio &lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/sg49jo/rouvio_kfar_apo_19_05_22.mp3" length="86590495" type="audio/mpeg"/>
+      <itunes:subtitle>Apo Sahagian Live in the Studio </itunes:subtitle>
+      <itunes:summary>Apo Sahagian Live in the Studio </itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:07</itunes:duration>
+      <itunes:episode>12623</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach: Josh Homme’s Birthday //18.5.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: Josh Homme’s Birthday //18.5.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-josh-homme-s-birthday-18523/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-josh-homme-s-birthday-18523/#comments</comments>
+      <pubDate>Thu, 18 May 2023 08:10:33 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/bb81e957-5ad6-3a56-a223-3a55a74536e4</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/txn9cb/_1852023-_alacs.mp3" length="88044086" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:06</itunes:duration>
+      <itunes:episode>12611</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 12.05.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 12.05.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-120523/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-120523/#comments</comments>
+      <pubDate>Fri, 12 May 2023 15:22:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/78502f1a-6aea-3a67-8d6c-691b686066ab</guid>
+      <description>&lt;p&gt;The Way You Dream&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;The Way You Dream&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/1oqm6u/Gil_rouvio_12_05_23.mp3" length="86276410" type="audio/mpeg"/>
+      <itunes:subtitle>The Way You Dream</itunes:subtitle>
+      <itunes:summary>The Way You Dream</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:54</itunes:duration>
+      <itunes:episode>12560</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach: Dan Auerbach’s Birthday //11.5.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: Dan Auerbach’s Birthday //11.5.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-dan-auerbach-s-birthday-11523/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-dan-auerbach-s-birthday-11523/#comments</comments>
+      <pubDate>Thu, 11 May 2023 12:13:21 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/cd680574-6934-3cf4-8593-953f37dad690</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/5g9wma/_11523-_-_7li6m.mp3" length="86174615" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:51</itunes:duration>
+      <itunes:episode>12556</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 05.05.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 05.05.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-050523/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-050523/#comments</comments>
+      <pubDate>Fri, 05 May 2023 15:58:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/0f580b58-e4e4-387b-82d9-5baac1d4eb7a</guid>
+      <description>&lt;p&gt;Vingt ans d'amour, c'est l'amour fol&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;Vingt ans d'amour, c'est l'amour fol&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/2kij88/rouvio_kfa_5_5_23.mp3" length="83656418" type="audio/mpeg"/>
+      <itunes:subtitle>Vingt ans d'amour, c'est l'amour fol</itunes:subtitle>
+      <itunes:summary>Vingt ans d'amour, c'est l'amour fol</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>58:05</itunes:duration>
+      <itunes:episode>12518</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach //4.5.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach //4.5.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-4523/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-4523/#comments</comments>
+      <pubDate>Thu, 04 May 2023 08:13:44 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/79a8c429-ccb7-3fcf-9e61-f4af8e2be754</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/5b949u/_452378eu6.mp3" length="85017405" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:02</itunes:duration>
+      <itunes:episode>12509</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 28.4.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 28.4.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-28423/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-28423/#comments</comments>
+      <pubDate>Fri, 28 Apr 2023 15:24:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/fa857d29-2eaf-3814-ab1e-166506f275e8</guid>
+      <description>&lt;p class="p1"&gt;Toda la vida, un día&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p class="p1"&gt;Toda la vida, un día&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/tu2smy/rouvio_kfar_28_04_23.mp3" length="86518385" type="audio/mpeg"/>
+      <itunes:subtitle>Toda la vida, un día</itunes:subtitle>
+      <itunes:summary>Toda la vida, un día</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:04</itunes:duration>
+      <itunes:episode>12479</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach //27.4.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach //27.4.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-27423/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-27423/#comments</comments>
+      <pubDate>Thu, 27 Apr 2023 20:04:10 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/aed5d308-d891-38d4-aa0f-cf83b884a841</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/5fn2y5/_27423b2pt1.mp3" length="88673087" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:24</itunes:duration>
+      <itunes:episode>12463</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 21.04.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 21.04.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/%d7%a8%d7%95%d7%a6%d7%94-%d7%95%d7%99%d7%94%d7%99%d7%94/</link>
+      <comments>https://kzradio.podbean.com/e/%d7%a8%d7%95%d7%a6%d7%94-%d7%95%d7%99%d7%94%d7%99%d7%94/#comments</comments>
+      <pubDate>Fri, 21 Apr 2023 15:22:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/5926730d-3b38-3754-84bd-800bbc986f37</guid>
+      <description>&lt;p&gt;רוצה ויהיה&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;רוצה ויהיה&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/uf2m6i/Kfar_21_04_23_mixdown.mp3" length="86184427" type="audio/mpeg"/>
+      <itunes:subtitle>רוצה ויהיה</itunes:subtitle>
+      <itunes:summary>רוצה ויהיה</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:50</itunes:duration>
+      <itunes:episode>12425</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach: Earth Day 2023 //20.4.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: Earth Day 2023 //20.4.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-earth-day-2023-20423/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-earth-day-2023-20423/#comments</comments>
+      <pubDate>Thu, 20 Apr 2023 08:06:17 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/87492c7b-c893-325b-9600-795f61c989b2</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/nfriwp/_20423-_7rjx8.mp3" length="88162536" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:16</itunes:duration>
+      <itunes:episode>12418</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach //13.4.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach //13.4.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-13423/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-13423/#comments</comments>
+      <pubDate>Thu, 13 Apr 2023 10:03:47 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/c485e8c9-1fcc-3054-8199-992e93f3a447</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/wih4ar/_13423-_97k72.mp3" length="86920275" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:21</itunes:duration>
+      <itunes:episode>12370</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 07.04.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 07.04.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-070423/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-070423/#comments</comments>
+      <pubDate>Fri, 07 Apr 2023 15:54:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/b2ab0ba1-d85f-371e-a0c3-0cbb0caf627d</guid>
+      <description>&lt;p&gt;חד - גדיא&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;חד - גדיא&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/sqxm42/Kfar_Set_07_04_23_mixdown.mp3" length="85810159" type="audio/mpeg"/>
+      <itunes:subtitle>חד - גדיא</itunes:subtitle>
+      <itunes:summary>חד - גדיא</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:35</itunes:duration>
+      <itunes:episode>12334</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach: שירי חירות //6.4.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach: שירי חירות //6.4.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-%d7%a9%d7%99%d7%a8%d7%99-%d7%97%d7%99%d7%a8%d7%95%d7%aa-6423/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-%d7%a9%d7%99%d7%a8%d7%99-%d7%97%d7%99%d7%a8%d7%95%d7%aa-6423/#comments</comments>
+      <pubDate>Thu, 06 Apr 2023 09:31:27 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/8835da83-872f-3cee-b9df-30fda026ae3e</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/vmgraw/_6423-_8x4o6.mp3" length="88913976" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:24</itunes:duration>
+      <itunes:episode>12322</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 31.03.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 31.03.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-310323/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-310323/#comments</comments>
+      <pubDate>Sun, 02 Apr 2023 11:13:09 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/1a081922-18a0-3e32-9d8a-71ac61a5d0e2</guid>
+      <description>&lt;p class="p1"&gt;The Sky Is the Same Colour Everywhere&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p class="p1"&gt;The Sky Is the Same Colour Everywhere&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/oy017n/rouvio_kfar_31_03_23.mp3" length="86511466" type="audio/mpeg"/>
+      <itunes:subtitle>The Sky Is the Same Colour Everywhere</itunes:subtitle>
+      <itunes:summary>The Sky Is the Same Colour Everywhere</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:04</itunes:duration>
+      <itunes:episode>12290</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/792389/KZ-Square-rw_1_.png"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach // 30.3.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach // 30.3.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-30323/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-30323/#comments</comments>
+      <pubDate>Thu, 30 Mar 2023 08:00:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/7eb913fa-7d49-3c90-9cf6-1163eaf0ac30</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/5nndd9/Bardach_30_03_23.mp3" length="91247008" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:57</itunes:duration>
+      <itunes:episode>12267</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 24.03.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 24.03.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-240323/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-240323/#comments</comments>
+      <pubDate>Fri, 24 Mar 2023 15:50:00 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/02d09e7e-25b0-3313-bb09-322d6fc936e2</guid>
+      <description>&lt;p class="p1"&gt;Öelge sõnnu&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p class="p1"&gt;Öelge sõnnu&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/kf9go4/gil_rouvio_kfar_24_3_23.mp3" length="86251936" type="audio/mpeg"/>
+      <itunes:subtitle>Öelge sõnnu</itunes:subtitle>
+      <itunes:summary>Öelge sõnnu</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:53</itunes:duration>
+      <itunes:episode>12232</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/GIL_ROUVIO__2sru3v.jpg"/>
+    </item>
+    <item>
+      <title>Eclectic w. Reuven Bardach //23.3.23</title>
+      <itunes:title>Eclectic w. Reuven Bardach //23.3.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-23323/</link>
+      <comments>https://kzradio.podbean.com/e/eclectic-w-reuven-bardach-23323/#comments</comments>
+      <pubDate>Thu, 23 Mar 2023 22:20:09 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/b9cc4a69-ac42-3bca-b938-cebd79a458d2</guid>
+      <description/>
+      <content:encoded/>
+      <enclosure url="https://mcdn.podbean.com/mf/web/gvej4f/_23323-_a8fl5.mp3" length="88037953" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>59:05</itunes:duration>
+      <itunes:episode>12227</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog792389/REUVEN_BARDACH_ECLECTIC6l7bu.jpg"/>
+    </item>
+    <item>
+      <title>Gil Rouvio’s Kfar Globali, 17.03.23</title>
+      <itunes:title>Gil Rouvio’s Kfar Globali, 17.03.23</itunes:title>
+      <link>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-170323/</link>
+      <comments>https://kzradio.podbean.com/e/gil-rouvio-s-kfar-globali-170323/#comments</comments>
+      <pubDate>Sun, 19 Mar 2023 14:33:19 +0200</pubDate>
+      <guid isPermaLink="false">kzradio.podbean.com/957581ce-ad02-3ad0-b8c0-2aa1ec591a56</guid>
+      <description>&lt;p&gt;אשיר לך ארץ חמדה&lt;/p&gt;&#xD;
+</description>
+      <content:encoded>&lt;p&gt;אשיר לך ארץ חמדה&lt;/p&gt;&#xD;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/kdwmxc/Kfar_170323_mixdown9ustw.mp3" length="86411599" type="audio/mpeg"/>
+      <itunes:subtitle>אשיר לך ארץ חמדה</itunes:subtitle>
+      <itunes:summary>אשיר לך ארץ חמדה</itunes:summary>
+      <itunes:author>KZradio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:episode>12194</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/792389/KZ-Square-rw_1_.png"/>
+    </item>
+  </channel>
+</rss>
