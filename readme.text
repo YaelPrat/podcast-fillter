@@ -8,13 +8,3 @@ run the code :
 >> npm install -g typescript
 >> tsc index.ts
 >> node index.js
-
-
-
-echo "# podcast-fillter" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/YaelPrat/podcast-fillter.git
-git push -u origin main
